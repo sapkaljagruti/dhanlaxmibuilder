@@ -10,7 +10,7 @@ $this->load->view('countdown_timer');
 <div class="about-w3laits" id="about">
     <div class="container">
         <h1>A Name You Can Trust</h1>
-        <p class="about-p-1-aits">Dhanlaxmi Builder was established in 2010 by Mr. Prafulla Gosh and Mr. Sureshkumar Modi, who have been the full time owner operators of the business since that time. Dhanlaxmi Builder remains a strong leader of the industry. Having steadily grown in expertise Dhanlaxmi Builder has a reputation as the leasing local and highly skilled agent servicing Lavachha and near by region.</p>
+        <p class="about-p-1-aits">Dhanlaxmi Builder was established in 2010 by Mr. Prafulla Ghosh and Mr. Sureshkumar Modi, who have been the full time owner operators of the business since that time. Dhanlaxmi Builder remains a strong leader of the industry. Having steadily grown in expertise Dhanlaxmi Builder has a reputation as the leasing local and highly skilled agent servicing Lavachha and near by region.</p>
         <p class="about-p-2-aits">We aim to be continually learning and evolving with the customer service needs of all who have contact with our company. Our office premises are modern and well equipped with Dhanlaxmi Builder embracing and utilising the latest technological advances available to our industry, however retaining our old fashioned service "core values" that keep our clients loyal and confident in referring our service to family and friends. Although Dhanlaxmi Builder is pro-active with regard to technology and innovation, this does not come at the expense of highly professional, personalised service and in-depth market knowledge.</p>
     </div>
 </div>
